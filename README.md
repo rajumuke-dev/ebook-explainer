@@ -1,5 +1,7 @@
 # Ebook Explainer (macOS)
 
+[![License: MIT](https://img.shields.io/github/license/rajumuke-dev/ebook-explainer)](LICENSE) [![Platform](https://img.shields.io/badge/platform-macOS-lightgrey)](#) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![Stars](https://img.shields.io/github/stars/rajumuke-dev/ebook-explainer?style=social)](https://github.com/rajumuke-dev/ebook-explainer)
+
 Drop in any technical ebook (PDF or EPUB). Each chapter becomes a story explained as if you were 10: fun analogies, cartoon pictures, a real-life example, a recap and a quiz. You can **read** it, **listen** to it, or do both.
 
 It follows the "upload a source, get a guided overview" pattern of apps like NotebookLM (audio overviews), ChatPDF and Blinkist, adapted for kids-level explanations.
@@ -36,3 +38,6 @@ For faster pictures and a more natural voice, open **Settings (⌘,)**, switch t
 
 ## Tests
 `Tests/` uses XCTest. Run it with `swift test`, which requires a full Xcode install because the Command Line Tools don't include XCTest or the SwiftUI and Testing macro plugins. For the same reason the app uses a small `ViewState` box instead of `@State`.
+
+## Contributing and security
+Fork, branch, and open a Pull Request; see [CONTRIBUTING.md](CONTRIBUTING.md). Report vulnerabilities privately per [SECURITY.md](SECURITY.md). Licensed under [MIT](LICENSE).
