@@ -6,6 +6,14 @@ Drop in any technical ebook (PDF or EPUB). Each chapter becomes a story explaine
 
 It follows the "upload a source, get a guided overview" pattern of apps like NotebookLM (audio overviews), ChatPDF and Blinkist, adapted for kids-level explanations.
 
+<div align="center">
+
+![Demo](docs/demo.gif)
+
+<sub>Illustrative animation of the main flow (not a screen recording).</sub>
+
+</div>
+
 ## Modes
 | Mode | What happens |
 |---|---|
