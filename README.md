@@ -1,4 +1,4 @@
-# Ebook Explainer (macOS)
+# 📚 Ebook Explainer (macOS)
 
 [![License: MIT](https://img.shields.io/github/license/rajumuke-dev/ebook-explainer)](LICENSE) [![Platform](https://img.shields.io/badge/platform-macOS-lightgrey)](#) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![Stars](https://img.shields.io/github/stars/rajumuke-dev/ebook-explainer?style=social)](https://github.com/rajumuke-dev/ebook-explainer)
 
